@@ -1,1 +1,1 @@
-# the-beauty-of-data-structure-and-algorithm-
+# The Beauty of Data Structure And Algorithm
